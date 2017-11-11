@@ -1,5 +1,3 @@
-#! /bin/python
-
 from PIL import Image, ImageFont, ImageDraw, ImageFilter
 from io import StringIO, BytesIO
 import os

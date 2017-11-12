@@ -5,6 +5,8 @@ import os
 dimensions = [512,512]
 colour = [0.0,0.0,0.0]
 
+#package all this into a function.
+
 #print(os.getcwd()+"/Fonts/NovaMono.ttf")
 
 font = ImageFont.truetype(os.getcwd()+"/Fonts/FN0T.TTF",12,0,"unic")
